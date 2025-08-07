@@ -10,10 +10,6 @@ I love expanding my knowledge across computer related topics. I’m especially d
 - Security research and CTFs
 - Systems programming, OS internals, and networking
 
-
-## Languages
-- C, C++, Python, java, javascript, scheme, assembly
-
 ## Current Focus
 - Practicing exploitation and reverse engineering
 - Building small systems projects and write-ups
